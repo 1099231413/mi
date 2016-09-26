@@ -1,0 +1,1 @@
+$(function(){$(".mi_top_tr a:eq(0)").click(function(){$(".mi_logins").show().css({"background":"rgba(0,0,0,0.6)"})});$(".mi_img").click(function(){$(".mi_logins").hide()});$(".mi_name .mi_zou").click(function(){$(".mi_max").show()});$(".mi_max").click(function(){$(this).hide()});$(".mi_max").dblclick(function(){$(this).hide()})});
